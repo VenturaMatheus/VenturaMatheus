@@ -59,42 +59,7 @@ const matheus = {
 
 </div>
 
----
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenturaMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenturaMatheus&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VenturaMatheus&theme=dracula&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
----
-
-<h2 align="center">🏆 Troféus do GitHub</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VenturaMatheus&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
-<h2 align="center">📂 Projetos em Destaque</h2>
-
-<div align="center">
-
-[![Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=VenturaMatheus&repo=Lading-page-moderna&theme=dracula&hide_border=true&bg_color=0d1117)](https://github.com/VenturaMatheus/Lading-page-moderna)
-
-</div>
-
-> 🚀 **Landing Page Moderna** - Landing page responsiva moderna com formulário de contato, modo escuro e animações suaves.
-> 
-> **Tecnologias:** HTML5, CSS3, JavaScript | **Recursos:** Modo Escuro, Formulário de Contato, Animações AOS
-
----
 
 <h2 align="center">📈 Gráfico de Contribuições</h2>
 
