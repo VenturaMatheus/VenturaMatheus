@@ -2,35 +2,35 @@
   
 # 👨‍💻 Matheus Ventura
 
-### Full Stack Developer | Web Enthusiast | Tech Lover
+### Desenvolvedor Front End | Entusiasta Web | Apaixonado por Tecnologia
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Always+learning+new+technologies;Building+amazing+web+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+do+GitHub!+%F0%9F%91%8B;Sou+Desenvolvedor+Front+End;Sempre+aprendendo+novas+tecnologias;Construindo+experiências+web+incríveis)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=VenturaMatheus&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=VenturaMatheus&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do perfil"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
 ```javascript
 const matheus = {
-    location: "São Paulo, Brazil",
-    currentFocus: "Full Stack Web Development",
-    learning: ["HTML5", "CSS3", "JavaScript", "React", "Node.js"],
-    interests: ["Web Design", "UI/UX", "Clean Code", "Open Source"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄",
-    goal2024: "Build 20+ projects and contribute to Open Source",
-    hobbies: ["Coding", "Gaming", "Music", "Coffee ☕"]
+    localização: "Rio de Janeiro, Brasil",
+    focoAtual: "Desenvolvimento Front End",
+    aprendendo: ["HTML5", "CSS3", "JavaScript", "React", "Node.js"],
+    interesses: ["Web Design", "UI/UX", "Código Limpo", "Open Source"],
+    curiosidade: "Eu faço debug com console.log() e tenho orgulho disso! 😄",
+    meta2025: "Construir +20 projetos e contribuir com Open Source",
+    hobbies: ["Programar", "Jogar", "Música", "Café ☕"]
 };
 ```
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Languages
+### 💻 Linguagens
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +39,7 @@ const matheus = {
 
 </div>
 
-### 🎨 Frameworks & Libraries
+### 🎨 Frameworks & Bibliotecas
 <div align="center">
   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,7 +49,7 @@ const matheus = {
 
 </div>
 
-### 🔧 Tools & Platforms
+### 🔧 Ferramentas & Plataformas
 <div align="center">
   
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -61,7 +61,7 @@ const matheus = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenturaMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -74,7 +74,7 @@ const matheus = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus do GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VenturaMatheus&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
@@ -82,7 +82,7 @@ const matheus = {
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projetos em Destaque
 
 <div align="center">
 
@@ -90,13 +90,13 @@ const matheus = {
 
 </div>
 
-> 🚀 **Landing Page Moderna** - Modern responsive landing page with contact form, dark mode, and smooth animations.
+> 🚀 **Landing Page Moderna** - Landing page responsiva moderna com formulário de contato, modo escuro e animações suaves.
 > 
-> **Tech Stack:** HTML5, CSS3, JavaScript | **Features:** Dark Mode, Contact Form, AOS Animations
+> **Tecnologias:** HTML5, CSS3, JavaScript | **Recursos:** Modo Escuro, Formulário de Contato, Animações AOS
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Gráfico de Contribuições
 
 <div align="center">
   
@@ -106,7 +106,7 @@ const matheus = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Cobrinha de Contribuições
 
 <div align="center">
   
@@ -116,17 +116,17 @@ const matheus = {
 
 ---
 
-## 💼 What I'm Currently Working On
+## 💼 No Que Estou Trabalhando Atualmente
 
-- 🔭 Building modern and responsive web applications
-- 🌱 Learning advanced JavaScript concepts and React
-- 👯 Looking to collaborate on open source projects
-- 💡 Exploring UI/UX design principles
-- 📚 Improving my problem-solving skills with algorithms
+- 🔭 Construindo aplicações web modernas e responsivas
+- 🌱 Aprendendo conceitos avançados de JavaScript e React
+- 👯 Buscando colaborar em projetos open source
+- 💡 Explorando princípios de design UI/UX
+- 📚 Aprimorando minhas habilidades de resolução de problemas com algoritmos
 
 ---
 
-## 📫 Connect With Me
+## 📫 Conecte-se Comigo
 
 <div align="center">
   
@@ -140,7 +140,7 @@ const matheus = {
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Frase de Programação Aleatória
 
 <div align="center">
   
@@ -150,31 +150,31 @@ const matheus = {
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 📊 Resumo Semanal de Desenvolvimento
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Curiosidades
 
-- 💻 I can code for hours with just coffee and good music
-- 🎮 When I'm not coding, you'll find me gaming or exploring new tech
-- 🌟 I believe in clean code and beautiful UI/UX
-- 🚀 Always excited to learn new technologies
-- 🎯 2025 Goal: Master React and build 20+ projects
+- 💻 Consigo programar por horas com apenas café e boa música
+- 🎮 Quando não estou programando, me encontra jogando ou explorando novas tecnologias
+- 🌟 Acredito em código limpo e UI/UX bonito
+- 🚀 Sempre empolgado para aprender novas tecnologias
+- 🎯 Meta 2025: Dominar React e construir +20 projetos
 
 ---
 
 <div align="center">
 
-### 💖 Thanks for visiting my profile!
+### 💖 Obrigado por visitar meu perfil!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**"Código é como humor. Quando você tem que explicar, é ruim."** – Cory House
 
-⭐️ From [VenturaMatheus](https://github.com/VenturaMatheus)
+⭐️ De [VenturaMatheus](https://github.com/VenturaMatheus)
 
 </div>
