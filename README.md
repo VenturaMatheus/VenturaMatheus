@@ -61,7 +61,7 @@ const matheus = {
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VenturaMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -74,7 +74,7 @@ const matheus = {
 
 ---
 
-## 🏆 Troféus do GitHub
+<h2 align="center">🏆 Troféus do GitHub</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VenturaMatheus&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
@@ -82,7 +82,7 @@ const matheus = {
 
 ---
 
-## 📂 Projetos em Destaque
+<h2 align="center">📂 Projetos em Destaque</h2>
 
 <div align="center">
 
@@ -96,7 +96,7 @@ const matheus = {
 
 ---
 
-## 📈 Gráfico de Contribuições
+<h2 align="center">📈 Gráfico de Contribuições</h2>
 
 <div align="center">
   
@@ -106,7 +106,7 @@ const matheus = {
 
 ---
 
-## 🐍 Cobrinha de Contribuições
+<h2 align="center">🐍 Cobrinha de Contribuições</h2>
 
 <div align="center">
   
