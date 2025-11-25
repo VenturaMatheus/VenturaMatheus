@@ -106,16 +106,6 @@ const matheus = {
 
 ---
 
-<h2 align="center">🐍 Cobrinha de Contribuições</h2>
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/VenturaMatheus/VenturaMatheus/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 💼 No Que Estou Trabalhando Atualmente
 
 - 🔭 Construindo aplicações web modernas e responsivas
