@@ -21,7 +21,7 @@ const matheus = {
     aprendendo: ["HTML5", "CSS3", "JavaScript", "React", "Node.js"],
     interesses: ["Web Design", "UI/UX", "Código Limpo", "Open Source"],
     curiosidade: "Eu faço debug com console.log() e tenho orgulho disso! 😄",
-    meta2025: "Construir +20 projetos e contribuir com Open Source",
+    meta2026: "Construir +6 projetos e contribuir com Open Source",
     hobbies: ["Programar", "Jogar", "Música", "Café ☕"]
 };
 ```
