@@ -114,7 +114,7 @@ const matheus = {
 - 🎮 Quando não estou programando, me encontra jogando ou explorando novas tecnologias
 - 🌟 Acredito em código limpo e UI/UX bonito
 - 🚀 Sempre empolgado para aprender novas tecnologias
-- 🎯 Meta 2025: Dominar React e construir +20 projetos
+- 🎯 Meta 2026: Dominar React e construir +6 projetos
 
 ---
 
