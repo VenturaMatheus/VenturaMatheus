@@ -22,7 +22,7 @@ const matheus = {
     interesses: ["Web Design", "UI/UX", "Código Limpo", "Open Source"],
     curiosidade: "Eu faço debug com console.log() e tenho orgulho disso! 😄",
     meta2026: "Construir +6 projetos e contribuir com Open Source",
-    hobbies: ["Programar", "Jogar", "Música", "Café ☕"]
+    hobbies: ["Programar", "Jogar", "Xadrez", "Música", "Café ☕"]
 };
 ```
 
